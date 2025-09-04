@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVB4UGs3KgM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DipperCock\\Documents\\newRepos\\fSharpPractice\\fSharpPractice.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DipperCock\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
