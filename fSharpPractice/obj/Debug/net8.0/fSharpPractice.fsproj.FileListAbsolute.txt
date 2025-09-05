@@ -27,3 +27,4 @@ C:\Users\DipperCock\Documents\newRepos\fSharpPractice\obj\Debug\net8.0\refint\fS
 C:\Users\DipperCock\Documents\newRepos\fSharpPractice\obj\Debug\net8.0\fSharpPractice.pdb
 C:\Users\DipperCock\Documents\newRepos\fSharpPractice\obj\Debug\net8.0\fSharpPractice.genruntimeconfig.cache
 C:\Users\DipperCock\Documents\newRepos\fSharpPractice\obj\Debug\net8.0\ref\fSharpPractice.dll
+C:\Users\DipperCock\Documents\newRepos\fSharpPractice\obj\Debug\net8.0\fSharpPractice.sourcelink.json

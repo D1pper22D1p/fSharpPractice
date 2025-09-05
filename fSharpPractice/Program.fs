@@ -2,7 +2,7 @@
 
 [<EntryPoint>]
 let main argv =
-    printf "Input ur name: "
-    let name = Console.ReadLine()
-    printfn "Ur name is: %s" name
+    let arr = [| 1..100 |]
+    let Sum = Array.sum (arr)
+    printfn "%d" Sum
     0
