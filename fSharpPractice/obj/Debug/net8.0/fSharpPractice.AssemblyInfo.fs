@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("fSharpPractice")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3cf292cbf524b08a271fde59d5952ee3c5b0b8")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6da4721ae439b6315e39a5cd8801aac9efe3d340")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("fSharpPractice")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("fSharpPractice")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
